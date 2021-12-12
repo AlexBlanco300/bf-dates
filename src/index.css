@@ -1,13 +1,209 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+    background-image: url(./imagenes/fondo2.png);
+    /* background-color: black; */
+    color: #fff;
+    padding: 70px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.inputSelectCita {
+    width: 15%;
+}
+
+.centerTitulo {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.centerBtn {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
+
+.divTitulo {
+    display: flex;
+    background-color: black;
+    color: #fff;
+    border-radius: 40px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
+
+.div {
+    display: flex;
+    background-color: black;
+    color: #fff;
+    border-radius: 40px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
+
+.divParrNom {
+    padding-bottom: 0.8%;
+    display: flex;
+    background-color: #fff;
+    color: #000;
+    border-radius: 20px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
+
+.divSelectCitaTit {
+    padding: 10px;
+    display: flex;
+    background-color: #fff;
+    color: #000;
+    border-radius: 10px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.divSelectCita {
+    padding: 8px;
+    display: flex;
+    background-color: #fff;
+    color: #000;
+    border-radius: 10px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.centerTexSelect {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.citas {
+    display: flex;
+    background-color: #000;
+    color: #fff;
+    border-radius: 10px;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
+
+.centerText {
+    margin: 0px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.divTexto {
+    color: #000;
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 0.55em;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+.textDefault {
+    margin: 0px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.divDefault {
+    padding: 05px;
+    width: 60%;
+    background-color: #7496b8;
+    border-radius: 7px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.divCita1 {
+    /* background-image: url(./imagenes/fondo19.jpg.crdownload);
+    background-repeat: no-repeat;
+    background-size: cover; */
+    background-color: #459fdb;
+    border-radius: 8px;
+    padding: 20px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.divCita2 {
+    /* background-image: url(./imagenes/fondo19.jpg.crdownload);
+    background-repeat: no-repeat;
+    background-size: cover; */
+    background-color: #e09292;
+    border-radius: 8px;
+    padding: 20px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.divCita3 {
+    /* background-image: url(./imagenes/fondo19.jpg.crdownload);
+    background-repeat: no-repeat;
+    background-size: cover; */
+    background-color: #82E0AA;
+    border-radius: 8px;
+    padding: 20px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.divCita4 {
+    /* background-image: url(./imagenes/fondo19.jpg.crdownload);
+    background-repeat: no-repeat;
+    background-size: cover; */
+    background-color: #F7DC6F;
+    border-radius: 8px;
+    padding: 20px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.divCita5 {
+    /* background-image: url(./imagenes/fondo19.jpg.crdownload);
+    background-repeat: no-repeat;
+    background-size: cover; */
+    background-color: #D2B4DE;
+    border-radius: 8px;
+    padding: 20px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.imgCita {
+    border-radius: 10px;
 }
