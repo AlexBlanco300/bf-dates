@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc0d1194.chunk.css",
+    "main.js": "/static/js/main.2d0b66b0.chunk.js",
+    "main.js.map": "/static/js/main.2d0b66b0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dce35d65.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dce35d65.js.map",
+    "static/js/2.bbf67064.chunk.js": "/static/js/2.bbf67064.chunk.js",
+    "static/js/2.bbf67064.chunk.js.map": "/static/js/2.bbf67064.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.fc0d1194.chunk.css.map": "/static/css/main.fc0d1194.chunk.css.map",
+    "static/js/2.bbf67064.chunk.js.LICENSE.txt": "/static/js/2.bbf67064.chunk.js.LICENSE.txt",
+    "static/media/caca1.6ac239d7.jfif": "/static/media/caca1.6ac239d7.jfif",
+    "static/media/canelazos1.829a007e.png": "/static/media/canelazos1.829a007e.png",
+    "static/media/comboPiper1.fe7d420d.jpg": "/static/media/comboPiper1.fe7d420d.jpg",
+    "static/media/index.css": "/static/media/fondo2.b3882c98.png",
+    "static/media/papas4.7d4c6c68.jpg": "/static/media/papas4.7d4c6c68.jpg",
+    "static/media/smartFifi1.e2244793.jpg": "/static/media/smartFifi1.e2244793.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dce35d65.js",
+    "static/js/2.bbf67064.chunk.js",
+    "static/css/main.fc0d1194.chunk.css",
+    "static/js/main.2d0b66b0.chunk.js"
+  ]
+}
