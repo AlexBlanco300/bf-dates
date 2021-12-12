@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import piper from '../imagenes/comboPiper1.jpg';
+// import piper from '../imagenes/comboPiper1.jpg';
 import smart from '../imagenes/smartFifi1.jpg';
 import papas from '../imagenes/papas4.jpg';
 import canelazos from '../imagenes/canelazos1.png';
@@ -24,7 +24,7 @@ export const CitasOpciones = ( {cita} ) => {
                     <p>⋆ Jugar en los jueguitos y ganar muchos tickets</p>
                     <p>⋆ Obvio microbio unas ricas pizzas</p>
                     <div>
-                        <img src={ piper } width="60%" className="imgCita" alt="imagen de Date"/>
+                        <img src="https://raw.githubusercontent.com/AlexBlanco300/bf-dates/ce95393a23a97709044f0a81a39e157bc1635364/src/imagenes/comboPiper1.jpg" width="60%" className="imgCita" alt="imagen de Date"/>
                     </div>
                 </div>
             )
@@ -37,7 +37,7 @@ export const CitasOpciones = ( {cita} ) => {
                     <p>⋆ Conocer el Smart más codiciado de la ciudad</p>
                     <p>⋆ Unas papitas con queso con su chesquito</p>
                     <p>⋆ Unas retas de Mario Kart de postre</p>
-                    <img src={ smart } width="80%" className="imgCita" alt="imagen de Date"/>
+                    <img src="https://raw.githubusercontent.com/AlexBlanco300/bf-dates/main/src/imagenes/smartFifi1.jpg" width="80%" className="imgCita" alt="imagen de Date"/>
                 </div>
             )
             
@@ -51,7 +51,7 @@ export const CitasOpciones = ( {cita} ) => {
                     <p>⋆ Papitas Sabritas</p>
                     <p>⋆ Con kechu</p>
                     <p>⋆ Ver un mini documental sobre papas fritas</p>
-                    <img src={ papas } width="80%" className="imgCita" alt="imagen de Date"/>
+                    <img src="https://raw.githubusercontent.com/AlexBlanco300/bf-dates/main/src/imagenes/papas4.jpg" width="80%" className="imgCita" alt="imagen de Date"/>
                 </div>
             )
 
@@ -63,7 +63,7 @@ export const CitasOpciones = ( {cita} ) => {
                     <p>⋆ Echarnos unos buenos Canelazos Cajeta Baitz Domino's</p>
                     <p>⋆ Acompañados de una buena película de Marvel</p>
                     <p>⋆ Un besío en el cachetío</p>
-                    <img src={ canelazos } width="80%" className="imgCita" alt="imagen de Date"/>
+                    <img src="https://raw.githubusercontent.com/AlexBlanco300/bf-dates/main/src/imagenes/canelazos1.png" width="80%" className="imgCita" alt="imagen de Date"/>
                 </div>
             )
 
@@ -75,7 +75,7 @@ export const CitasOpciones = ( {cita} ) => {
                     <p>⋆ Recitar CACA (Clientes Adoran Comer Aquí )</p>
                     <p>⋆ Ver la peli de Bob Esponja</p>
                     <p>⋆ Echarnos una rica Cangreburguer de algún Crustáceo Cascarudo de la ciudad</p>
-                    <img src={ caca } width="80%" className="imgCita" alt="imagen de Date"/>
+                    <img src="https://i.pinimg.com/originals/d9/6a/1d/d96a1d3e6315ed8e92c892fdd769f9b1.jpg" width="80%" className="imgCita" alt="imagen de Date"/>
                 </div>
             )
     
