@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import piper from '../imagenes/piper.jpg';
+// import piper from '../imagenes/piper.jpg';
 import smart from '../imagenes/smart.jpg';
 import papas from '../imagenes/papas.jpg';
 import canelazos from '../imagenes/canelazos.png';
@@ -24,7 +24,7 @@ export const CitasOpciones = ( {cita} ) => {
                     <p>⋆ Jugar en los jueguitos y ganar muchos tickets</p>
                     <p>⋆ Obvio microbio unas ricas pizzas</p>
                     <div>
-                        <img src={ piper } width="60%" className="imgCita" alt="imagen de Date"/>
+                        <img src="https://raw.githubusercontent.com/AlexBlanco300/bf-dates/main/docs/static/media/piper.fe7d420d.jpg" width="60%" className="imgCita" alt="imagen de Date"/>
                     </div>
                 </div>
             )
