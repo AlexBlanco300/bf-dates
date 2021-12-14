@@ -24,7 +24,7 @@ export const CitasOpciones = ( {cita} ) => {
                     <p>⋆ Jugar en los jueguitos y ganar muchos tickets</p>
                     <p>⋆ Obvio microbio unas ricas pizzas</p>
                     <div>
-                        <img src={process.env.PUBLIC_URL + piper } width="60%" className="imgCita" alt="imagen de Date"/>
+                        <img src={ piper } width="60%" className="imgCita" alt="imagen de Date"/>
                     </div>
                 </div>
             )
