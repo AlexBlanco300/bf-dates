@@ -41,7 +41,8 @@ export const Formulario = () => {
                         placeholder="GirlFriend (Alejandra)"
                         autoComplete="off"
                         value={ name1 }
-                        onChange={ controlDelCambioInput } 
+                        onChange={ controlDelCambioInput }
+                        maxLength="9"
                     />
                 </div><br/>
                 <div className="div animate__animated animate__fadeInRight animate__faster">
@@ -53,6 +54,7 @@ export const Formulario = () => {
                         autoComplete="off"
                         value={ name2 }
                         onChange={ controlDelCambioInput }
+                        maxLength="9"
                     />
                 </div><br/>
                 <button type="text" className="btn btn-primary centerBtn animate__animated animate__fadeIn" >
