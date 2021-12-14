@@ -3,8 +3,7 @@
     padding: 0px;
 }
 body {
-    background-image: url(https://raw.githubusercontent.com/AlexBlanco300/bf-dates/main/src/imagenes/fondo2.png);
-    /* background-color: black; */
+    background-image: url(./imagenes/fondo.png);
     color: #fff;
     padding: 70px;
 }

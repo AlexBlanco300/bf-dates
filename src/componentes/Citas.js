@@ -38,6 +38,7 @@ export const Citas = () => {
                         autoComplete="off"
                         value={ cita }
                         onChange={ controlDelCambioInput }
+                        maxLength="1"
                 />
                 
         </form><br/>
