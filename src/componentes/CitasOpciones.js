@@ -1,9 +1,11 @@
 import React, { useEffect } from 'react';
-import piper from '../assets/images/piper.jpg';
-import smart from '../assets/images/smart.jpg';
-import papas from '../assets/images/papas.jpg';
-import canelazos from '../assets/images/canelazos.png';
-import caca from '../assets/images/caca.jfif';
+import imagenes from '../assets/imagenes';
+// import piper from '../assets/images/piper.jpg';
+// import smart from '../assets/images/smart.jpg';
+// import papas from '../assets/images/papas.jpg';
+// import canelazos from '../assets/images/canelazos.png';
+// import caca from '../assets/images/caca.jfif';
+
 
 export const CitasOpciones = ( {cita} ) => {
 
@@ -24,7 +26,7 @@ export const CitasOpciones = ( {cita} ) => {
                     <p>⋆ Jugar en los jueguitos y ganar muchos tickets</p>
                     <p>⋆ Obvio microbio unas ricas pizzas</p>
                     <div>
-                        <img src={ piper } width="60%" className="imgCita" alt="imagen de Date"/>
+                        <img src={ imagenes.piper } width="60%" className="imgCita" alt="imagen de Date"/>
                     </div>
                 </div>
             )
@@ -37,7 +39,7 @@ export const CitasOpciones = ( {cita} ) => {
                     <p>⋆ Conocer el Smart más codiciado de la ciudad</p>
                     <p>⋆ Unas papitas con queso con su chesquito</p>
                     <p>⋆ Unas retas de Mario Kart de postre</p>
-                    <img src={ smart } width="80%" className="imgCita" alt="imagen de Date"/>
+                    <img src={ imagenes.smart } width="80%" className="imgCita" alt="imagen de Date"/>
                 </div>
             )
             
@@ -51,7 +53,7 @@ export const CitasOpciones = ( {cita} ) => {
                     <p>⋆ Papitas Sabritas</p>
                     <p>⋆ Con kechu</p>
                     <p>⋆ Ver un mini documental sobre papas fritas</p>
-                    <img src={ papas } width="80%" className="imgCita" alt="imagen de Date"/>
+                    <img src={ imagenes.papas } width="80%" className="imgCita" alt="imagen de Date"/>
                 </div>
             )
 
@@ -63,7 +65,7 @@ export const CitasOpciones = ( {cita} ) => {
                     <p>⋆ Echarnos unos buenos Canelazos Cajeta Baitz Domino's</p>
                     <p>⋆ Acompañados de una buena película de Marvel</p>
                     <p>⋆ Un besío en el cachetío</p>
-                    <img src={ canelazos } width="80%" className="imgCita" alt="imagen de Date"/>
+                    <img src={ imagenes.canelazos } width="80%" className="imgCita" alt="imagen de Date"/>
                 </div>
             )
 
@@ -75,7 +77,7 @@ export const CitasOpciones = ( {cita} ) => {
                     <p>⋆ Recitar CACA (Clientes Adoran Comer Aquí )</p>
                     <p>⋆ Ver la peli de Bob Esponja</p>
                     <p>⋆ Echarnos una rica Cangreburguer de algún Crustáceo Cascarudo de la ciudad</p>
-                    <img src={ caca } width="80%" className="imgCita" alt="imagen de Date"/>
+                    <img src={ imagenes.caca } width="80%" className="imgCita" alt="imagen de Date"/>
                 </div>
             )
     
