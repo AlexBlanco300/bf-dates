@@ -24,7 +24,7 @@ export const CitasOpciones = ( {cita} ) => {
                     <p>⋆ Jugar en los jueguitos y ganar muchos tickets</p>
                     <p>⋆ Obvio microbio unas ricas pizzas</p>
                     <div>
-                        <img src={ piper } width="60%" className="imgCita" alt="imagen de Date"/>
+                        <img src="https://img.vixdata.io/pd/jpg-large/es/sites/default/files/imj/elgranchef/C/Como-hacer-papas-fritas-crujientes-000.jpg" width="60%" className="imgCita" alt="imagen de Date"/>
                     </div>
                 </div>
             )
@@ -37,7 +37,7 @@ export const CitasOpciones = ( {cita} ) => {
                     <p>⋆ Conocer el Smart más codiciado de la ciudad</p>
                     <p>⋆ Unas papitas con queso con su chesquito</p>
                     <p>⋆ Unas retas de Mario Kart de postre</p>
-                    <img src={ smart } width="80%" className="imgCita" alt="imagen de Date"/>
+                    <img href="https://images.viacbs.tech/uri/mgid:arc:content:mtvla.com:87064a2a-3aad-4b04-a107-d8a0379219a5?quality=0.7" width="80%" className="imgCita" alt="imagen de Date"/>
                 </div>
             )
             
