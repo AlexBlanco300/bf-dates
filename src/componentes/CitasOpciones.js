@@ -1,9 +1,9 @@
 import React, { useEffect } from 'react';
-import piper from '../assets/images/piper.jpg';
-import smart from '../assets/images/smart.jpg';
-import papas from '../assets/images/papas.jpg';
-import canelazos from '../assets/images/canelazos.png';
-import caca from '../assets/images/caca.jfif';
+import piper from './assets/images/piper.jpg';
+import smart from './assets/images/smart.jpg';
+import papas from './assets/images/papas.jpg';
+import canelazos from './assets/images/canelazos.png';
+import caca from './assets/images/caca.jfif';
 
 export const CitasOpciones = ( {cita} ) => {
 

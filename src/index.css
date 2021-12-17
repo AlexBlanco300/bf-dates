@@ -3,7 +3,7 @@
     padding: 0px;
 }
 body {
-    background-image: url(./assets/images/fondo.png);
+    background-image: url(./componentes/assets/images/fondo.png);
     color: #fff;
     padding: 70px;
 }
