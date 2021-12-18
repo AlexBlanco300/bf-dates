@@ -5,11 +5,11 @@
 body {
     background-image: url(https://raw.githubusercontent.com/AlexBlanco300/bf-dates/main/fondo.png);
     color: #fff;
-    padding: 70px;
+    padding-top: 70px;
 }
 
 .inputSelectCita {
-    width: 15%;
+    width: 25%;
 }
 
 .centerTitulo {
@@ -26,6 +26,7 @@ body {
 }
 
 .divTitulo {
+    padding: 0.5%;
     display: flex;
     background-color: black;
     color: #fff;
@@ -41,14 +42,14 @@ body {
     background-color: black;
     color: #fff;
     border-radius: 40px;
-    width: 70%;
+    width: 60%;
     margin-left: auto;
     margin-right: auto;
     align-items: center;
 }
 
 .divParrNom {
-    padding-bottom: 0.8%;
+    padding: 1%;
     display: flex;
     background-color: #fff;
     color: #000;
