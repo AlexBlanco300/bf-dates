@@ -31,7 +31,7 @@ export const Citas = () => {
                 <p className="centerText">Tienes 5 citas disponibles mi Amorcito!</p>
             </div><br/>
                 <input
-                        type="text"
+                        type="number"
                         name="cita"
                         className="input form-control centerTexSelect inputSelectCita animate__animated animate__headShake"
                         placeholder="♥"

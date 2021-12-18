@@ -9,7 +9,7 @@ body {
 }
 
 .inputSelectCita {
-    width: 25%;
+    width: 15%;
 }
 
 .centerTitulo {
@@ -26,7 +26,6 @@ body {
 }
 
 .divTitulo {
-    padding: 0.5%;
     display: flex;
     background-color: black;
     color: #fff;
