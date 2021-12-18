@@ -57,7 +57,7 @@ export const Formulario = () => {
                         maxLength="9"
                     />
                 </div><br/>
-                <button type="text" className="btn btn-primary centerBtn animate__animated animate__fadeIn" >
+                <button type="text" className="btn btn-primary centerBtn animate__animated animate__fadeInUp animate__faster">
                     Kissito
                 </button><br/>
     
