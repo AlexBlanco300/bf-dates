@@ -28,7 +28,7 @@ export const CitasOpciones = ( {cita} ) => {
                     <p>⋆ Jugar en los jueguitos y ganar muchos tickets</p>
                     <p>⋆ Obvio microbio unas ricas pizzas</p>
                     <div>
-                        <img src="2wCEAAoHCBUWFRgVFRYSGBgYGBESEhgZGBERGBIYGBgZGRgYGBgcIS4lHB4rIRgYJjgmKy8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QHhISGjEkJCQ0NDE0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0MUA0NP" width="60%" className="imgCita" alt="imagen de Date"/>
+                        <img src="https://raw.githubusercontent.com/AlexBlanco300/bf-dates/main/piper.jpg" width="60%" className="imgCita" alt="imagen de Date"/>
                     </div>
                 </div>
             )
@@ -41,7 +41,7 @@ export const CitasOpciones = ( {cita} ) => {
                     <p>⋆ Conocer el Smart más codiciado de la ciudad</p>
                     <p>⋆ Unas papitas con queso con su chesquito</p>
                     <p>⋆ Unas retas de Mario Kart de postre</p>
-                    <img src="https://github.com/AlexBlanco300/bf-dates/blob/main/smart.jpg" width="80%" className="imgCita" alt="imagen de Date"/>
+                    <img src="https://raw.githubusercontent.com/AlexBlanco300/bf-dates/main/smart.jpg" width="80%" className="imgCita" alt="imagen de Date"/>
                 </div>
             )
             
@@ -55,7 +55,7 @@ export const CitasOpciones = ( {cita} ) => {
                     <p>⋆ Papitas Sabritas</p>
                     <p>⋆ Con kechu</p>
                     <p>⋆ Ver un mini documental sobre papas fritas</p>
-                    <img src="https://github.com/AlexBlanco300/bf-dates/blob/main/papas.jpg" width="80%" className="imgCita" alt="imagen de Date"/>
+                    <img src="https://raw.githubusercontent.com/AlexBlanco300/bf-dates/main/papas.jpg" width="80%" className="imgCita" alt="imagen de Date"/>
                 </div>
             )
 
@@ -67,7 +67,7 @@ export const CitasOpciones = ( {cita} ) => {
                     <p>⋆ Echarnos unos buenos Canelazos Cajeta Baitz Domino's</p>
                     <p>⋆ Acompañados de una buena película de Marvel</p>
                     <p>⋆ Un besío en el cachetío</p>
-                    <img src="https://github.com/AlexBlanco300/bf-dates/blob/main/canelazos.png" width="80%" className="imgCita" alt="imagen de Date"/>
+                    <img src="https://raw.githubusercontent.com/AlexBlanco300/bf-dates/main/canelazos.png" width="80%" className="imgCita" alt="imagen de Date"/>
                 </div>
             )
 
