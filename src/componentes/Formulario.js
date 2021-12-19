@@ -7,7 +7,7 @@ export const Formulario = () => {
     useEffect(() => {
         
         setTimeout(() => {
-            alert('Hola Preciosa ♥ para poder ver tus Dates escribe Tu nombre y el Mío como se muestra en los rectangulitos');
+            alert('Hola Preciosa ♥ para poder ver tus Dates escribe Tu nombre y el Mío como se muestra en los rectangulitos.');
         }, 3000);
 
     }, [])
