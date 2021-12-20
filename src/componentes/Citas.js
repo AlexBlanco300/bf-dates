@@ -31,7 +31,7 @@ export const Citas = () => {
                 <p className="centerText">Tienes 5 citas disponibles mi Amorcito!</p>
             </div><br/>
                 <input
-                        type="number"
+                        type="tel"
                         name="cita"
                         className="input form-control centerTexSelect inputSelectCita animate__animated animate__headShake"
                         placeholder="♥"
@@ -40,6 +40,7 @@ export const Citas = () => {
                         onChange={ controlDelCambioInput }
                         min="1"
                         max="5"
+                        maxLength="1"
                 />
                 
         </form><br/>
